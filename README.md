@@ -1,1 +1,3 @@
-# NO I’m the best
+# git add README.md
+We’re both the best, ugh
+
